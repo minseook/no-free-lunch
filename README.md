@@ -3,7 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 0️⃣ Before you start...
-
+  
+⭐️ Chrome 브라우저가 설치되어 있어야 해요 👉 [Chrome](https://www.google.com/intl/ko_kr/chrome/)  
+⭐️ Metamask를 설치해야해요 👉 [Metamask](https://metamask.io/)  
+  
+  
 시작에 앞서 이 프로그램을 시작하기 위해서 실행하기 위한 순서를 알려드릴게요‼️
 
 #### 1️⃣ `npm init` 
