@@ -21,7 +21,16 @@ cd no-free-lunch
 npm init
 ```
 
-### 2️⃣ `npm run start`
+### 2️⃣ `npm install`
+
+필요한 라이브러리들을 전체 다 받아줍니다!
+
+```
+npm install
+```
+
+
+### 3️⃣ `npm run start`
 
 ```
 npm run start
